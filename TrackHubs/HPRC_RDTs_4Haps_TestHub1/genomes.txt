@@ -1,0 +1,12 @@
+genome GCA_044165215.1
+trackDb GCA_044165215.1/trackDb.txt
+
+genome GCA_044164745.1
+trackDb GCA_044164745.1/trackDb.txt
+
+genome GCA_042032535.1
+trackDb GCA_042032535.1/trackDb.txt
+
+genome GCA_042031845.1
+trackDb GCA_042031845.1/trackDb.txt
+
