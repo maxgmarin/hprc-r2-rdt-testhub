@@ -1,0 +1,5 @@
+hub HPRC_R2_RDTs
+shortLabel HPRC R2 RDTs
+longLabel HPRC Release 2 Reference-Divergent Transcripts (PacBio Kinnex)
+genomesFile genomes.txt
+email marin@ds.dfci.harvard.edu

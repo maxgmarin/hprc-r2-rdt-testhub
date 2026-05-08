@@ -1,0 +1,12 @@
+track RDT_HG00735_H1
+bigDataUrl https://github.com/maxgmarin/hprc-r2-rdt-testhub/raw/refs/heads/main/Data/rdt_anno_files/PBKT.HG00735.H1.RDTs.bb
+type bigBed 12 +
+shortLabel HG00735 H1 RDTs
+longLabel Reference-Divergent Transcripts — HG00735 Haplotype 1 (HPRC R2 Kinnex)
+visibility pack
+itemRgb off
+searchIndex name,pbGeneId,associatedGene,cmpRef
+mouseOver $associatedGene ($geneBiotype) | $classCode | FLNC reads: $flncReads | ORFanage: $orfanageStatus
+url https://www.ncbi.nlm.nih.gov/nuccore/$cmpRef
+urlLabel View reference transcript on NCBI RefSeq
+skipEmptyFields on
