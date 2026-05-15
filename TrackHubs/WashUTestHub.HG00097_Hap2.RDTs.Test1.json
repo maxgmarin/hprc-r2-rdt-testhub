@@ -2,7 +2,7 @@
 {
     "type": "bigbed",
     "name": "HG00097 H2 RDTs",
-    "url": "https://github.com/maxgmarin/hprc-r2-rdt-testhub/raw/refs/heads/main/Data/rdt_anno_files/PBKT.HG00097.H2.RDTs.bb",
+    "url": "https://cdn.jsdelivr.net/gh/maxgmarin/hprc-r2-rdt-testhub@main/Data/rdt_anno_files/PBKT.HG00097.H2.RDTs.bb",
     "genome": "HG00097_2"
 }
 ] 
